@@ -1,0 +1,8 @@
+D:\ОвчарукМарков 215\T7_4\bin\Debug\T7_4.exe.config
+D:\ОвчарукМарков 215\T7_4\bin\Debug\T7_4.exe
+D:\ОвчарукМарков 215\T7_4\bin\Debug\T7_4.pdb
+D:\ОвчарукМарков 215\T7_4\obj\Debug\T7_4.csproj.AssemblyReference.cache
+D:\ОвчарукМарков 215\T7_4\obj\Debug\T7_4.csproj.SuggestedBindingRedirects.cache
+D:\ОвчарукМарков 215\T7_4\obj\Debug\T7_4.csproj.CoreCompileInputs.cache
+D:\ОвчарукМарков 215\T7_4\obj\Debug\T7_4.exe
+D:\ОвчарукМарков 215\T7_4\obj\Debug\T7_4.pdb
